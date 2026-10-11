@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Drone Audio Lab",
+  "description": "Atmospheric low-frequency industrial drone sound generator and ambient soundscape synthesizer powered by Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
